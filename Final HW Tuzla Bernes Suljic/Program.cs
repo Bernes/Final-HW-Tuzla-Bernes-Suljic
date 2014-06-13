@@ -16,9 +16,9 @@ namespace Final_HW_Tuzla_Bernes_Suljic
             //I had to put new student under each of those so it can be written
             //under a different line each time and not all used by same Id
             //thus the program wouldn't get confused
-            students.Add(new Student("Michael", "Jordan","Age:" 57));
-            students.Add(new Student("Kobe", "Bryant","Age:" 36));
-            students.Add(new Student("LeBron", "James","Age:" 27));
+            students.Add(new Student("Michael", "Jordan","Age:", 57));
+            students.Add(new Student("Kobe", "Bryant","Age:". 36));
+            students.Add(new Student("LeBron", "James","Age:", 27));
 
 
             students.Sort();
